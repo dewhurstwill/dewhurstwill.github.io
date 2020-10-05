@@ -48,7 +48,7 @@ social_media:
 
 topics:
   - name: Terraform
-    web_url: https://terrafrom.io/topics/css
+    web_url: https://terrafrom.io
     image_url: https://www.terraform.io/assets/images/og-image-8b3e4f7d.png
 
   - name: React/NodeJS
