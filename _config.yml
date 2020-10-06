@@ -26,7 +26,8 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - example-mongo-express-crud-api
+      - example-azuread-react-auth
 
 social_media:
   # behance: your_username
