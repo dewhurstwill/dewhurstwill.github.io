@@ -28,6 +28,7 @@ projects:
     projects:
       # Projects to exlude
       simulate_coin_flip_python
+      dotfiles
 
 social_media:
   # behance: your_username
