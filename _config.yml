@@ -52,11 +52,9 @@ topics:
   - name: Terraform
     web_url: https://terraform.io
     image_url: https://www.terraform.io/assets/images/og-image-8b3e4f7d.png
-
   - name: React/NodeJS
     web_url: https://nodejs.org/en/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png
-
   - name: Kubernetes
     web_url: https://kubernetes.io
     image_url: https://kubernetes.io/images/favicon.png
