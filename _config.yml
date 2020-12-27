@@ -26,6 +26,7 @@ projects:
     forks: true
     projects:
       # Projects to exlude
+      dewhurstwill
       simulate_coin_flip_python
       dotfiles
 
